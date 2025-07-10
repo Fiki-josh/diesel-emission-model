@@ -88,6 +88,7 @@ python -m venv .venv
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
 ## 👤 Author
 **Mayomikun Joshua Fiki**  
